@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1025.71 822.39">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: CenturyGothic, 'Century Gothic';
+        font-size: 151.77px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-2" points="412.84 362.98 412.84 442.3 333.52 386.26 333.52 208.65 412.84 152.61 412.84 230.2 493.89 214.68 493.89 0 254.2 162.09 254.2 435.4 493.89 598.35 493.89 379.36 412.84 362.98"/>
+    <polygon class="cls-2" points="534.41 0 534.41 598.35 624.07 538 624.07 331.94 702.53 331.94 702.53 485.41 771.51 435.4 771.51 161.23 703.4 117.26 702.5 254.36 621.49 252.62 623.21 62.08 534.41 0"/>
+  </g>
+  <text class="cls-1" transform="translate(0 775.85)"><tspan x="0" y="0">Manutenções</tspan></text>
+</svg>
